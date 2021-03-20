@@ -5,8 +5,14 @@ This is a repository meant to help developers who would like to have a quick sta
 1. Download this repo as a ZIP file
 1. Extract the ZIP file on your computer
 1. Add the folder as a project in Unity Hub
-2. Open the project
-3. Create your game
+1. Open the project by clicking on it in the Unity Hub
+1. Wait for Unity to load the project
+1. Go to Build Settings and select Android
+    - Select "ASTC" in the Texture Compression dropdown
+    - Check the "Development Build" checkbox
+    - Click the "Switch Platform" button
+    - Wait for Unity to finish re-compressing textures (this takes a while)
+3. Start working on your project
 
 # Additional Information
 -  Oculus Unity Guide: https://developer.oculus.com/documentation/unity/unity-gs-overview/?device=QUEST
