@@ -6,8 +6,9 @@ Video tutorials are nice, but some of just want to clone code and read stuff.
 1. Install Unity __2020.3.0f1 (LTS)__ from the Unity Hub
 1. Download this repo as a ZIP file
 1. Extract the ZIP file on your computer
-1. Open the folder as a project in Unity
-1. Create your game
+1. Add the folder as a project in Unity Hub
+2. Open the project
+3. Create your game
 
 # Additional Information
 -  Oculus Unity Guide: https://developer.oculus.com/documentation/unity/unity-gs-overview/?device=QUEST
