@@ -1,7 +1,5 @@
 This is a repository meant to help developers who would like to have a quick starting point for developing applications for the Oculus Quest 2 VR headset.
 
-Video tutorials are nice, but some of just want to clone code and read stuff.
-
 # 1. Prepararation
 1. Install Unity __2020.3.0f1 (LTS)__ from the Unity Hub
 1. Download this repo as a ZIP file
