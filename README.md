@@ -10,5 +10,8 @@ Current Unity version: __2020.3.0f1 (LTS)__
 1. Open the repository project in Unity
 1. Create your game
 
-# 2.  Additional Information
+# 2. Stuff You Won't Need to Do
+1. Install the Oculus Integration package
+
+# Additional Information
 -  Oculus Unity Guide: https://developer.oculus.com/documentation/unity/unity-gs-overview/?device=QUEST
